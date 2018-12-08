@@ -1,0 +1,4 @@
+#Genral points for knowledge repository
+
+1. Do not use in parameter for list when there are many values (1 million) 'x in given_list'
+It will reduce the performance
